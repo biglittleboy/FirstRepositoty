@@ -3,3 +3,4 @@ Hellow world!
 Line from user2 
 Line from user1
 Line from user1 - lesson abour rebase
+new line (user1)
