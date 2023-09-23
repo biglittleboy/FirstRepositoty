@@ -1,5 +1,5 @@
 Hellow world!
-12345
+anotner Line from user1 
 Line from user2 
 Line from user1
 Line from user1 - lesson abour rebase
